@@ -1,0 +1,8 @@
+name: lexis-nexis-app-pipeline
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
